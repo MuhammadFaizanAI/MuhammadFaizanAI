@@ -73,6 +73,6 @@ C++ DSA Library → Mini DB Engine → Virtual Machine
 ---
 
 <div align="center">
-<sub>FAST-NUCES Peshawar · Batch 2025 · Arch Linux btw</sub>
+<sub>FAST-NUCES · Batch 2025 · Arch Linux btw</sub>
 </div>
   
