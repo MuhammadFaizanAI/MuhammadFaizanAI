@@ -1,46 +1,29 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Muhammad%20Faizan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Learn%20by%20Building&descAlignY=55&descColor=58A6FF)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Scientist+%7C+AI%2FML+Engineer+%7C+Learn+by+Building;FAST-NUCES+%7C+Batch+2025+%7C+Open+Source)](https://git.io/typing-svg)
+
 </div>
 
-- BS Computer Science @ **FAST-NUCES**, Batch 2025
-- Self-studying **DSA & Discrete Mathematics** — Abdul Bari + MIT MCS, proof-first approach
-- Building toward a complete systems stack: **DSA → DB Engine → VM → OS → Neural Net in C++**
-- Learn by building things from scratch.
-- Built **[Genaibar](https://github.com/MuhammadFaizanAI/Genaibar)** — open source AI sidebar used across all Chromium browsers
-- **Goal** to Become a Best Computer Scientist and AI/ML Engineer who builds systems that matter.
+- 🔭 I’m currently working on [Genaibar](https://github.com/MuhammadFaizanAI/Genaibar)
 
-### Tech stack
+- 🌱 I’m currently learning **DSA, Discrete Mathematics, Backend Engineering**
 
-**Systems & low-level**
+- 👨‍💻 All of my projects are available at [https://github.com/MuhammadFaizanAI/](https://github.com/MuhammadFaizanAI/)
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+- 💬 Ask me about **Web Developement, Data Structure and Alogrithm, Calculus, Discrete Mathematics**
 
-**Web & full-stack**
+- 📫 How to reach me **raifaizan469@gmail.com**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ⚡ Fun fact **I don't feel like I understand something until I've built it from scratch**
 
-**Design**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammadfaizanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfaizanai" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/56300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="56300" height="30" width="40" /></a>
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### Featured projects
-
-| Project | Stack | What it is |
-|---|---|---|
-| [Genaibar](https://github.com/MuhammadFaizanAI/Genaibar) | Chrome Extension + JS | AI sidebar — switch between ChatGPT, Claude, Gemini instantly without leaving your tab |
-| 🚧 Coming soon | — | More projects in the pipeline |
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <div align="center">
 <sub>FAST-NUCES · Batch 2025 · Arch Linux btw</sub>
