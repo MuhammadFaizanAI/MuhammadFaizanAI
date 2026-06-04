@@ -1,19 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Muhammad%20Faizan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Builder%20%7C%20Systems%20Thinker%20%7C%20AI%2FML%20Engineer&descAlignY=55&descColor=58A6FF)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Muhammad%20Faizan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Learn%20by%20Building&descAlignY=55&descColor=58A6FF)
 </div>
 
----
-
-- 🎓 CS student at **FAST-NUCES**, Batch 2025
-- 🔭 Currently working on **[Genaibar](https://github.com/MuhammadFaizanAI/Genaibar)** — AI sidebar for Chromium browsers
-- 🌱 Currently learning **DSA & Discrete Mathematics**
-- 💬 Ask me about **C++, Systems Programming, Chrome Extensions, MERN Stack**
-- 🎯 Long-term goal: **AI/ML Engineering → Research → My own startup**
-- ⚡ Fun fact: I don't feel like I understand something until I've built it from scratch
-
----
+- BS Computer Science @ **FAST-NUCES**, Batch 2025
+- Self-studying **DSA & Discrete Mathematics** — Abdul Bari + MIT MCS, proof-first approach
+- Building toward a complete systems stack: **DSA → DB Engine → VM → OS → Neural Net in C++**
+- Learn by building things from scratch.
+- Built **[Genaibar](https://github.com/MuhammadFaizanAI/Genaibar)** — open source AI sidebar used across all Chromium browsers
+- **Goal** to Become a Best Computer Scientist and AI/ML Engineer who builds systems that matter.
 
 ### Tech stack
 
@@ -44,20 +39,6 @@
 |---|---|---|
 | [Genaibar](https://github.com/MuhammadFaizanAI/Genaibar) | Chrome Extension + JS | AI sidebar — switch between ChatGPT, Claude, Gemini instantly without leaving your tab |
 | 🚧 Coming soon | — | More projects in the pipeline |
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadFaizanAI&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizanAI&layout=compact&theme=github_dark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=MuhammadFaizanAI&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 ---
 
