@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A passionate Computer Science Lover</h3>
 
 - 🔭 Built **[Genaibar](https://github.com/MuhammadFaizanAI/Genaibar)** — open source AI sidebar for all Chromium browsers
 - 🌱 Currently building my foundational skills in Computer Science — learning by building things and exploring different tools and fields
