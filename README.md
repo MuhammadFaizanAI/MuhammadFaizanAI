@@ -1,15 +1,12 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
+<h3 align="center">A passionate Computer Science Student</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Scientist+%7C+AI%2FML+Engineer+%7C+Learn+by+Building;FAST-NUCES+%7C+Batch+2025+%7C+Open+Source)](https://git.io/typing-svg)
-
-</div>
-
-- 🔭 Built **[Genaibar](https://github.com/MuhammadFaizanAI/Genaibar)** — open source AI sidebar for all Chromium browsers
-- 🌱 Currently building my foundational skills in Computer Science — learning by building things and exploring different tools and fields
-- 👨‍💻 All my projects are available at [github.com/MuhammadFaizanAI](https://github.com/MuhammadFaizanAI)
-- 💬 Ask me about **C++, Systems Programming, DSA, Discrete Mathematics, MERN Stack**
-- 🎯 **Goal:** Become a Computer Scientist and AI/ML Engineer who builds systems that matter
-- ⚡ **Philosophy:** Learn by building things from scratch
+- Built **[Genaibar](https://github.com/MuhammadFaizanAI/Genaibar)** — open source AI sidebar for all Chromium browsers
+- Currently building my foundational skills in Computer Science — learning by building things and exploring different tools and fields
+- All my projects are available at [github.com/MuhammadFaizanAI](https://github.com/MuhammadFaizanAI)
+- Ask me about **C++, Systems Programming, DSA, Discrete Mathematics, MERN Stack**
+- **Goal:** Become a Computer Scientist and AI/ML Engineer who builds systems that matter
+- **Philosophy:** Learn by building things from scratch
 
 <h3 align="left">Connect with me</h3>
 
